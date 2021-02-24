@@ -1,0 +1,23 @@
+{
+  "name": "memo-test",
+  "version": "1.0.0",
+  "description": "Juego de memotest para r/argentina programa",
+  "main": "index.hmtl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tongas06/Memo-test.git"
+  },
+  "author": "Gaston Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tongas06/Memo-test/issues"
+  },
+  "homepage": "https://github.com/Tongas06/Memo-test#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1"
+  }
+}
